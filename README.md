@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://dc-team-page-challenge.onrender.com">
+    <a href="https://dc-team-page-challenge.onrender.com" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/adeys/dc-team-page-challenge">
+    <a href="https://github.com/adeys/dc-team-page-challenge" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U" target="_blank">
       Challenge
     </a>
   </h3>
